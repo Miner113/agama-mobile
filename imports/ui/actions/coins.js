@@ -2,6 +2,7 @@ const _coinsList = {
   spv:[
     // sn related coins/assets
     'KMD',
+    'GRMS',
     'CHIPS',
     'SUPERNET',
     'REVS',
