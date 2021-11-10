@@ -48,6 +48,7 @@ App.accessRule('https://bitcoinfees.earn.com');
 App.accessRule('https://www.atomicexplorer.com');
 // coin explorers
 App.accessRule('https://www.kmdexplorer.io');
+App.accessRule('https://explorer.grms.pw');
 App.accessRule('https://kv.kmdexplorer.io');
 App.accessRule('http://explorer.utrum.io');
 App.accessRule('http://chain.blocnation.io');
